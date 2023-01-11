@@ -1,0 +1,20 @@
+.even{
+    width:200px;
+    height:200px;
+    background-color: aqua;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.click{
+    width:200px;
+    height:200px;
+    background-color:bisque;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
